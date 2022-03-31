@@ -1,0 +1,34 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<xliff version="1.2" xmlns="urn:oasis:names:tc:xliff:document:1.2" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="urn:oasis:names:tc:xliff:document:1.2 xliff-core-1.2-transitional.xsd">
+  <file datatype="xml" source-language="en-US" target-language="en-US" original="Clever MES Samples">
+    <body>
+      <group id="body">
+        <trans-unit id="Codeunit 746184800 - NamedType 2290216805" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Back</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Codeunit MES Scan Prod. Order Op. - NamedType BackTxt</note>
+        </trans-unit>
+        <trans-unit id="Codeunit 746184800 - NamedType 3268343153" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Next</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Codeunit MES Scan Prod. Order Op. - NamedType NextTxt</note>
+        </trans-unit>
+        <trans-unit id="Codeunit 746184800 - NamedType 2466631919" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Refresh</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Codeunit MES Scan Prod. Order Op. - NamedType RefreshTxt</note>
+        </trans-unit>
+        <trans-unit id="Codeunit 746184800 - NamedType 19060965" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Scan Barcode</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Codeunit MES Scan Prod. Order Op. - NamedType ScanBarcodeTxt</note>
+        </trans-unit>
+        <trans-unit id="Codeunit 746184800 - NamedType 665477023" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Sign out</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Codeunit MES Scan Prod. Order Op. - NamedType SignOutTxt</note>
+        </trans-unit>
+      </group>
+    </body>
+  </file>
+</xliff>
