@@ -12,3 +12,15 @@ and a textbox control to hold the scanned/entered production order information.
 
 MESScanProdOrderOp.al/ProdScanOnBeforeHandleActivity() is a subscriber to 'OnBeforeHandleActivity2' in MES Management.
 This takes the value recorded against the textbox control and records it against the device data type PROD_ORDER.
+
+## MESRedirect - Add a button the the Output screen to redirect to a specific URL
+
+This adds a button captioned "Clever Dynamics" to the Output screen immediately before "Notes".
+
+When the button is clicked the Azure portal is instructed to redirect to https://www.cleverdynamics.com.
+
+MESRedirect.codeunit.al/RedirectButtonOnAfterBuildPage() is a subscriber to 'OnAfterBuildPage2' in MES Management. This allows us
+to add the button to the screen.
+
+MESRedirect.codeunit.al/RedirectOnBeforeGetNextActivity() is a subscriber to 'OnBeforeGetNextActivity' in MES Activity Management.
+This code executes when the button is clicked.
