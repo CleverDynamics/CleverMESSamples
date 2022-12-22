@@ -3,6 +3,11 @@
   <file datatype="xml" source-language="en-US" target-language="en-US" original="Clever MES Samples">
     <body>
       <group id="body">
+        <trans-unit id="Codeunit 1174363667 - NamedType 2084921477" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Clever Dynamics</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Codeunit MES Redirect - NamedType CleverDynamicsCaption</note>
+        </trans-unit>
         <trans-unit id="Codeunit 746184800 - NamedType 2290216805" size-unit="char" translate="yes" xml:space="preserve">
           <source>Back</source>
           <note from="Developer" annotates="general" priority="2"></note>
